@@ -1,0 +1,2 @@
+# Myteststaticwebsitepublic
+Myteststaticwebsitepublic for DEMO
